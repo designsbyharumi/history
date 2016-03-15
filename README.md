@@ -1,7 +1,7 @@
 history
 =======
 
-Your personal **history** storyboarded with photo and video albums.  Associate photos with their meta data including geocode, caption, friends (characters)... in XML albums.
+My personal **history** storyboarded with photo and video albums.  Associate photos with their meta data including geocode, caption, friends (characters)... in XML albums.
 * Plot thumbnails on a map
 * Code runs on static web hosts
 * Includes administration tools for XML generation
